@@ -1,0 +1,11 @@
+
+.navbar{
+ width: 100%;
+ background-color: rgb(50, 152, 184);
+ height: 40px;
+ display: flex;
+ justify-content: space-evenly;
+}
+.navbar .link{
+    color: white;
+}
